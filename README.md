@@ -1,4 +1,4 @@
-<h1 align="center">SKELETOR REACT</h1>
+<h1 align="center">SKELETOR VUE</h1>
 
 <center>
     <img src="https://positivethinking.tech/wp-content/uploads/2021/01/Logo-Vuejs.png" alt="Vue logo"/>
